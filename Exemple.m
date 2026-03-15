@@ -1,0 +1,1 @@
+openExample('spc_channel/CommunicationLinkForAircraftOverSeawaterUsingRayTracingExample')
